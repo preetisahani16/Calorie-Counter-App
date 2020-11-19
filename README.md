@@ -2,7 +2,7 @@
 ============================================================================================
 ## Description
 This application was created **purely with vanilla javascript** .
-The purpose of this exercise  is to create a full CRUD application without the use of any frameworks whatsoever.
+The purpose of this exercise  is to create a full CRUD application without the use of any frameworks.
 
 ## Features
 * Add meals with calories to the list
