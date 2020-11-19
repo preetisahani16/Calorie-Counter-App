@@ -1,8 +1,8 @@
 # Calorie-Counter-App
-===============
+===================================================================================================================================================================================
 ## Description
-This application was created **purely with vanilla javascript** 
-The purpose of this exercise exercise is to create a full CRUD application without the use of any frameworks whatsoever.
+This application was created **purely with vanilla javascript** .
+The purpose of this exercise  is to create a full CRUD application without the use of any frameworks whatsoever.
 
 ## Features
 * Add meals with calories to the list
